@@ -1,0 +1,7 @@
+{
+  "name": "notesbayapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
